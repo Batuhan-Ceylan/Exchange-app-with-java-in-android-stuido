@@ -1,1 +1,1 @@
-# Exchange-app-with-java-in-android-stuido
+I build app with java in android studio this is exchange app exchange between dolar,tl and euro ı used to try-catch statment ı learned work about array must be integrated in adapter because array must be work to integrate in spinner
